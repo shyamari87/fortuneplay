@@ -1,0 +1,12 @@
+p {
+  font-family: Lato;
+}
+
+button,h1 {
+  border: none;
+  margin: auto;
+  padding : 10px 20px;
+  background-color : greenyellow;
+  border-radius: 10px;
+  text-align : center
+}
