@@ -1,0 +1,2 @@
+# fortuneplay
+For fortune test
